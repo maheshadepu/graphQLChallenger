@@ -10,4 +10,4 @@ npm start
 to run tests:
 npm run test
 
-./localhostGraphQL.png
+https://github.com/maheshadepu/graphQLChallenger/blob/main/localhostGraphQL.png
