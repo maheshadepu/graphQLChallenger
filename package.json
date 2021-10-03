@@ -1,0 +1,27 @@
+{
+  "name": "senior-backend-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^14"
+  },
+  "scripts": {
+    "test": "jest --forceExit",
+    "start": "nodemon index.js localhost 4000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.2.0",
+    "apollo-server-express": "3.3.0",
+    "express": "4.17.1",
+    "graphql": "^15.6.0",
+    "jest": "27.2.4",
+    "js-base64": "^3.7.2",
+    "supertest": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
