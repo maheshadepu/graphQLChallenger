@@ -7,7 +7,7 @@ supertest allows us to test node.js HTTP servers.
 npm install
 
 npm start
-above will start node server at  http://localhost:400/graphql
+This will start node server at  http://localhost:400/graphql
 
 to run tests:
 npm run test
